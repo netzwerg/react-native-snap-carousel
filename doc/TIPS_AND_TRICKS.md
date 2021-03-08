@@ -155,6 +155,8 @@ export class MyCarousel extends Component {
 }
 ```
 
+:warning: When using fullscreen slides with vertical layout, make sure to configure [items with dynamic height](#items-dynamic-height).
+
 [This plugin](https://github.com/shichongrui/react-native-on-layout) can also prove useful.
 
 ## Viewport wide slides / no preview effect
